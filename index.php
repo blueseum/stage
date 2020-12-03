@@ -1,3 +1,3 @@
 <?
-echo "    Staging WebApp1:;
+echo "    Staging WebApp1";
 ?>
