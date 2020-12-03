@@ -1,4 +1,4 @@
 <?
-echo "    Staging WebApp1";
-echo "\n    Ha Ha Ha ";
+echo "    Staging WebApp1 \n";
+echo "    Ha Ha Ha ";
 ?>
